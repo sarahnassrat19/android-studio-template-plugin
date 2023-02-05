@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sarahnassrat19.androidstudiotemplateplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sarahnassrat19.androidstudiotemplateplugin.MyBundle
 
 class MyApplicationService {
 
